@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = martin.boulanger@outlook.com
+	name = Martin Boulanger
